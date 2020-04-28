@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Albert陈凯</title>
+  
+  <subtitle>个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://xy83918.github.io/"/>
+  <updated>2020-04-28T09:33:54.448Z</updated>
+  <id>https://xy83918.github.io/</id>
+  
+  <author>
+    <name>Albert</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何培养受欢迎的孩子--哈佛喜欢什么样的孩子</title>
+    <link href="https://xy83918.github.io/2020/04/28/test/"/>
+    <id>https://xy83918.github.io/2020/04/28/test/</id>
+    <published>2020-04-28T08:09:27.000Z</published>
+    <updated>2020-04-28T09:33:54.448Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何培养受欢迎的孩子–哈佛喜欢什么样的孩子？&quot;&gt;&lt;a href=&quot;#如何培养受欢迎的孩子–哈佛喜欢什么样的孩子？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="亲子教育" scheme="https://xy83918.github.io/categories/%E4%BA%B2%E5%AD%90%E6%95%99%E8%82%B2/"/>
+    
+    
+      <category term="亲子教育" scheme="https://xy83918.github.io/tags/%E4%BA%B2%E5%AD%90%E6%95%99%E8%82%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十大经典排序算法整理汇总（附代码）</title>
+    <link href="https://xy83918.github.io/2020/02/16/sort-algorithms/"/>
+    <id>https://xy83918.github.io/2020/02/16/sort-algorithms/</id>
+    <published>2020-02-16T07:09:23.000Z</published>
+    <updated>2020-04-28T08:07:07.610Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://xy83918.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="leetcode" scheme="https://xy83918.github.io/tags/leetcode/"/>
+    
+      <category term="算法" scheme="https://xy83918.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
